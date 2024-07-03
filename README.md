@@ -8,16 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
 
-
+- 🚀 I’m on a mission to transform data into actionable insights and innovative solutions.
+  
 - 🔭 I’m currently looking for **a SWE intern in Summer 2024**
 
 - 🤝 With knowledge in **full-stack development**, I offer the best projects resulting in quality work.
+  
+- 📊 Data wizardry: Crafting compelling visual stories through tools like Tableau and MS Power BI.
 
 - 🌱 I’m currently learning **React/JavaScript and Flask/Python**
+  
+- 💡 Passionate about leveraging technology to solve real-world problems, from enhancing user experiences to optimizing business processes.
 
 - 👨‍💻 All of my projects are available at [https://dth2701.github.io/](https://dth2701.github.io)
 
-- 📫 How to reach me **dothienhuong2701@gmail.com**
+- 📫 How to reach me **aishwaryan2015dhl@gmail.com**
 
 - ⚡ Fun fact **I love and hate coding at the same time!**
 
