@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I'm Aishwarya</h1>
-<h3 align="center">A Master student at Univeristy of Wisconsin-Madison</h3>
+<h3 align="center">A Master Student at Univeristy of Texas at Dallas</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
