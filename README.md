@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
+#<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
 
 - 🚀 I’m on a mission to transform data into actionable insights and innovative solutions.
   
@@ -16,7 +16,7 @@
   
 - 📊 Data wizardry: Crafting compelling visual stories through tools like Tableau and MS Power BI.
 
-- 🌱 I’m currently learning **React/JavaScript and Flask/Python**
+- 🌱 Currently enhancing my knowledge in data analysis and processing with tools like Pandas, NumPy, and SQLAlchemy.
   
 - 💡 Passionate about leveraging technology to solve real-world problems, from enhancing user experiences to optimizing business processes.
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huong-thien-do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong-thien-do" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aishwaryapatil27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong-thien-do" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dothienhuong2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dothienhuong2701" height="30" width="40" /></a>
 </p>
 
