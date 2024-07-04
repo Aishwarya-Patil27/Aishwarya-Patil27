@@ -1,4 +1,4 @@
-<img width="700" height="500" alt="Screenshot 2024-05-01 at 10 45 28 PM" src="https://github.com/Aishwarya-Patil27/Aishwarya-Patil27/blob/main/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f.gif">
+<img align="center" width="700" height="500" alt="Screenshot 2024-05-01 at 10 45 28 PM" src="https://github.com/Aishwarya-Patil27/Aishwarya-Patil27/blob/main/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f.gif">
 
 
 <h1 align="center">Hello, I'm Aishwarya</h1>
@@ -9,17 +9,15 @@
 
 - 🚀 I’m on a mission to transform data into actionable insights and innovative solutions.
   
-- 🔭 I’m currently looking for **a SWE intern in Summer 2024**
-
-- 🤝 With knowledge in **full-stack development**, I offer the best projects resulting in quality work.
+- 🔭 I’m currently interested in internship / co-op focused on Data related roles for Fall 2024.
   
 - 📊 Data wizardry: Crafting compelling visual stories through tools like Tableau and MS Power BI.
 
-- 🌱 Currently enhancing my knowledge in data analysis and processing with tools like Pandas, NumPy, and SQLAlchemy.
+- 🌱 Currently enhancing my knowledge in data analysis and processing with tools like Pandas, NumPy, SQLAlchemy and Matplotlib.
   
 - 💡 Passionate about leveraging technology to solve real-world problems, from enhancing user experiences to optimizing business processes.
 
-- 👨‍💻 All of my projects are available at [https://aishwarya27.github.io/MyPortfolio] (https://aishwarya27.github.io/MyPortfolio)
+- 👨‍💻 All of my projects are available at https://aishwarya27.github.io/MyPortfolio
 
 - 📫 How to reach me **aishwaryan2015dhl@gmail.com**
 
@@ -28,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aishwaryapatil27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong-thien-do" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dothienhuong2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dothienhuong2701" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
