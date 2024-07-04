@@ -1,4 +1,4 @@
-<img width="900" height="800" alt="Screenshot 2024-05-01 at 10 45 28 PM" src="https://github.com/Aishwarya-Patil27/Aishwarya-Patil27/blob/main/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f.gif">
+<img width="500" height="400" alt="Screenshot 2024-05-01 at 10 45 28 PM" src="https://github.com/Aishwarya-Patil27/Aishwarya-Patil27/blob/main/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f.gif">
 
 
 <h1 align="center">Hello, I'm Aishwarya</h1>
@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
-##<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="Aishwarya-Patil27" /> </p>
 
 - 🚀 I’m on a mission to transform data into actionable insights and innovative solutions.
   
